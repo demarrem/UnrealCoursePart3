@@ -1,0 +1,9 @@
+
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+Content/StarterContent/
+Intermediate/
+Saved/
